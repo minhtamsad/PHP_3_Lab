@@ -105,6 +105,11 @@ return [
         ),
     ],
 
+    // 'providers' => [
+    // // ...
+    // Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+    // ],
+
     /*
     |--------------------------------------------------------------------------
     | Maintenance Mode Driver
