@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 
-Route::get('/', [HomeController::class, "index"]);
+// Route::get('/', [HomeController::class, "index"]);
 // Route::get('/lienhe', [ContractController::class, "index"]);
 // Route::get('/login', [AuthController::class, "login"]);
 // Route::get('/register', [AuthController::class, "register"]);

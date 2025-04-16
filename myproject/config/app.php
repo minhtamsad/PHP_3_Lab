@@ -105,6 +105,12 @@ return [
         ),
     ],
 
+
+    // 'providers' => [
+
+    // PHPOpenSourceSaver\JWTAuth\Providers\LaravelServiceProvider::class,
+    // ],
+
     /*
     |--------------------------------------------------------------------------
     | Maintenance Mode Driver
